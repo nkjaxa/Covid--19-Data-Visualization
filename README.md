@@ -1,2 +1,1 @@
-# Covid--19-Data-Visualization
-Covid -19 Data Visualization
+# Data-visualization-to-track-the-coronavirus-outbreak
